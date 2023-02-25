@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HangfireServiceExample": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:5000/hangfire"
+    }
+  }
+}
